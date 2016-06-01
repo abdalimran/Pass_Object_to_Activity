@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pass Object to Activity</string>
+    <string name="enter_name">Enter name:</string>
+    <string name="enter_id">Enter ID:</string>
+    <string name="enter_mobile_no">Enter Mobile No:</string>
+    <string name="enter_address">Enter Address:</string>
+</resources>
